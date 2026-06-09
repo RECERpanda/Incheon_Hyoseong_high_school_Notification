@@ -19,7 +19,9 @@
 4. 설치가 완료되었다는 문구(`Successfully installed...`)가 나타나면 창을 닫아주세요.
 
 ## 3단계: 파일 설치
-<img width="1901" height="902" alt="학교위젯설명" src="https://github.com/user-attachments/assets/f88b24ce-02c3-43d4-adf6-6ba81385e226" />
+<img width="1917" height="668" alt="image" src="https://github.com/user-attachments/assets/92b77a10-c435-48a0-8853-d6671a05090c" />
+
+
 
 1. 위 사진대로 클릭하여 'main.zip' 폴더를 다운로드 해주세요.
 2. 다운로드한 'main.zip' 폴더의 압축을 풀어주세요. (폴더의 압축을 해제한 뒤에는 압축 폴더를 지우거나, 폴더 이름을 바꾸거나, 폴더의 위치를 변경해도 아무 문제 없습니다.)
